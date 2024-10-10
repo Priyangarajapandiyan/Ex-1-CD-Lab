@@ -1,4 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+NAME: R PRIYANGA
+REG:212223230161
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
